@@ -1,5 +1,5 @@
 ```text
- 👋 Hello, I'm [Hera](https://herasium.dev)
+ 👋 Hello, I'm Hera
 ```
 I do stupid things on the internet.
 
