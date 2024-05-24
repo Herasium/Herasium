@@ -1,4 +1,5 @@
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/white" />
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
