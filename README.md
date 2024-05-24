@@ -1,8 +1,8 @@
-```js
+```python
  👋 Hello, I'm Hera
 ```
 I do stupid things on the internet.
-```text
+```python
  What I use ?
 ```
 
