@@ -2,7 +2,7 @@
  👋 Hello, I'm Hera
 ```
 
-`I do stupid things on the internet.`
+<code>I do stupid things on the internet.</code>
 ```text
  What I use ?
 ```
