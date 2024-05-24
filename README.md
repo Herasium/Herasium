@@ -1,8 +1,7 @@
 ```text
  👋 Hello, I'm Hera
 ```
-
-<code>I do stupid things on the internet.</code>
+I do stupid things on the internet.`
 ```text
  What I use ?
 ```
