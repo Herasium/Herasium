@@ -1,5 +1,4 @@
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/white" />
-
+<h1>👋 Hello, I'm <a href="https://herasium.dev">Hera</a></h1>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
