@@ -1,7 +1,7 @@
-```text
+```js
  👋 Hello, I'm Hera
 ```
-I do stupid things on the internet.`
+I do stupid things on the internet.
 ```text
  What I use ?
 ```
