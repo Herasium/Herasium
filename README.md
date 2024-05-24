@@ -1,4 +1,6 @@
-<h1>👋 Hello, I'm <a href="https://herasium.dev">Hera</a></h1>
+<h1>```text
+ 👋 Hello, I'm [Hera](https://herasium.dev)
+```</h1>
 I do stupid things on the internet.
 <br>
 <h3>What I use ?</h3>
