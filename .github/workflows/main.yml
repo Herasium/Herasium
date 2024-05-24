@@ -16,3 +16,11 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
+          DEBUG_LOGGING: "False"
+          SYMBOL_VERSION: 3
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_EDITORS: "True"
+          SHOW_SHORT_INFO: "False"
